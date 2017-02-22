@@ -23,6 +23,7 @@ public class PayService {
     /**
      * 支付宝支付业务：入参app_id,请填写自己的商户APP_ID
      */
+
     public static final String APPID = "";
 
     /** 商户私钥，pkcs8格式 */
